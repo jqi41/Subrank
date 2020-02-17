@@ -12,6 +12,15 @@ Jun Qi, Huck Yang, Javier Tejedor, “Submodular Rank Aggregation for Score-base
 Distributed Automatic Speech Recognition,” in Proc. IEEE Intl. Conf. on Acoustic, Speech, and Signal
 Processing (ICASSP), Barcelona, Spain, 2020.
 
+````
+@article{qi2020submodular,
+  title={Submodular Rank Aggregation on Score-based Permutations for Distributed Automatic Speech Recognition},
+  author={Qi, Jun and Yang, Chao-Han Huck and Tejedor, Javier},
+  journal={arXiv preprint arXiv:2001.10529},
+  year={2020}
+}
+````
+
 Jun Qi, Xu Liu, Javier Tejedor, Shunsuke Kamijo, "Unsupervised Submodular Rank Aggregation on Score-based Permutations", arXiv:1707.01166.'
 
 
